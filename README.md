@@ -10,7 +10,7 @@ This submission includes two separate deep learning projects:
 
 2. **Vehicle Classification**  
    Implemented and tested multiple models for multi-class vehicle recognition, including **AlexNet**, a custom CNN, and a **VGG16 feature extractor with a Linear SVM** classifier.  
-
+ 
 ## Results & Takeaways  
 - For X-ray classification, transfer learning models (especially VGG16 and MobileNetV2) achieved the highest accuracy and most reliable performance.  
 - For vehicle classification, VGG16 + Linear SVM and AlexNet performed better than the simple CNN, with VGG16+SVM offering an efficient balance between speed and accuracy.  
